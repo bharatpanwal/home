@@ -1,0 +1,52 @@
+/* Reset some default styles */
+*{
+    background-color:skyblue;
+}
+h2{
+    color: red;
+}
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+    background-color: aquamarine;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: aquamarine;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    background-color: aquamarine;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+section {
+    padding: 2rem;
+}
+
+footer {
+    background-color:aquamarine;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
+
+/* Add more styles as needed */
